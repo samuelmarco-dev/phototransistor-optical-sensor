@@ -1,1 +1,1 @@
-# phototransistor_optical_sensor
+# phototransistor-optical-sensor
